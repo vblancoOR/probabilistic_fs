@@ -1,2 +1,5 @@
-# probabilistic_fs
-Codes of our models for computing optimal probabilistic feature shifts for reclassification in tree ensembles
+#Optimal Probabilistic Feature shifts
+
+This repository contains the code accompanying the paper *Optimal probabilistic feature shifts\\for reclassification in tree ensembles*.
+
+
